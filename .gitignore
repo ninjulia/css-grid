@@ -9,6 +9,8 @@ readme-start.md
 *FINISHED.html
 *FINISHED.css
 
+*.json
+
 02 - Starter Files and Tooling/*
 03 - CSS Grid Fundamentals/*
 04 - CSS Grid Dev Tools/*
