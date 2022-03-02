@@ -67,3 +67,9 @@ h6 {
 .item p {
   margin: 0 0 5px 0;
 }
+
+.learning{
+  display:none;
+  font-size:0;
+  visibility: hidden;
+}
